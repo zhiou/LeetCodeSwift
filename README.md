@@ -16,5 +16,7 @@
 - [x] [12. Integer to Roman](Algorithm/12.Integer_to_Roman.swift) Faster than 85.53% of swift submissions, memory usage less than 57.89% of swift submissions.
 - [x] [17. Letter Combinations of a Phone Number](Algorithm/17.Letter_Combinations_of_a_Phone_Number.swift) Faster than 82.86% of swift submissions, memory usage less than 87.14% of swift submissions.
 - [x] [36. Valid Sudoku](Algorithm/36.Valid_Sudoku.swift) Faster than 26.6% of swift submissions, memory usage less than 81.92% of swift submissions.
+- [x] [42. Traping Rain Water](Algorithm/42.Traping_Rain_Water.swift) Faster than 30.07% of swift submissions, memory usage less than 59.48% of swift submissions.
 - [x] [707. Design Linked List](DataStruct/707.Design_Linked_List.swift) Implemented by singly linked list. Faster than 10.39% of swift submissions, memory usable less than 59.74% of swift submissions. 
+- [x] [766. Toeplitz Matrix](Algorithm/766.Toeplitz_Matrix.swift) Faster than 100.0% of swift submissions, memory usage less than 66.67% of swift submissions.
 
